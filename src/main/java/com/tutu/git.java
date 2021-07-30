@@ -5,7 +5,7 @@ public class git {
         System.out.println("hello.gi树收缩t");
         System.out.println("hello.gi树收缩t");
         System.out.println("push test");
-
+        System.out.println("pull test");
     }
 
 }
